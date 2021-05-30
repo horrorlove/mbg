@@ -1,0 +1,28 @@
+h1.solid {
+    font-size: 15px;
+    text-align: center;
+    outline-style: solid;
+    background-color: #bc4749;
+  outline-color: #bc4749;
+  outline-width: 10px;
+  border: 1px solid #bc4749;
+  }
+
+
+  .indexImage {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 30;
+    font-weight: bolder;
+    margin-top: 0px;
+  }
+
+  .textAlignment {
+    text-align: center left right;
+  }
